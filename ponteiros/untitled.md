@@ -26,3 +26,7 @@ Stack, ou pilha, em portugês, é uma estrutura de dados muito conhecida e utili
 
 <figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p>Ilustração funcionamento da pilha de pratos</p></figcaption></figure>
 
+Heap, amontoado ou monte, em portugês, se refere a forma com que a memória heap não se organiza, o espaço de memória dinâmica pode ter diferentes tipos, com diferentes tamanhos e não necessariamente segue algum tipo de ordenamento ou política, tornando assim o acesso a informação mais direto (quando se possui o endereço) da variável dentro deste amontoado de variáveis.
+
+
+
