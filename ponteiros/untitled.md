@@ -22,4 +22,7 @@ O objetivo deste artigo é mostrar para você pontos que geralmente passam desap
 
 Antes de entrar no assunto de ponteiros, para um melhor entendimento, precisamos contextualizar Stack e Heap.
 
-Stack, ou pilha, em portugês, é uma estrutura de dados&#x20;
+Stack, ou pilha, em portugês, é uma estrutura de dados muito conhecida e utilizada no mundo da computação, ela segue a política LIFO (Last IN First OUT) que pode ser comparada à analogia da pilha de pratos, onde, o primeiro prato a entrar é sempre o último a sair, e, o último a entrar é sempre o primeiro a sair LIFO.
+
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption><p>Ilustração funcionamento da pilha de pratos</p></figcaption></figure>
+
